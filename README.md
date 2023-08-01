@@ -16,7 +16,6 @@ A Flutter chat app with Firebase CRUD and authentication.
 <img src="assets/SC/homepage.png" alt="DashBoard" width="200" height="400">
 <img src="assets/SC/chat.png" alt="Chat Room" width="200" height="400">
 
-
 ## Acknowledgments
 
 - Thanks to the Flutter and Firebase communities for their amazing tools and support.
