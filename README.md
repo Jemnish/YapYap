@@ -11,10 +11,15 @@ A Flutter chat app with Firebase CRUD and authentication.
 
 ## Screenshots
 
-<img src="assets/SC/login.png" alt="Log In" width="200" height="400">
-<img src="assets/SC/signup.png" alt="Sign Up" width="200" height="400">
-<img src="assets/SC/homepage.png" alt="DashBoard" width="200" height="400">
-<img src="assets/SC/chat.png" alt="Chat Room" width="200" height="400">
+<div style="display: inline-block;">
+  <img src="assets/SC/login.png" alt="Log In" width="200" height="400">
+  <img src="assets/SC/signup.png" alt="Sign Up" width="200" height="400">
+</div>
+
+<div style="display: inline-block;">
+  <img src="assets/SC/homepage.png" alt="DashBoard" width="200" height="400">
+  <img src="assets/SC/chat.png" alt="Chat Room" width="200" height="400">
+</div>
 
 ## Acknowledgments
 
