@@ -11,10 +11,10 @@ A Flutter chat app with Firebase CRUD and authentication.
 
 ## Screenshots
 
-![Log In](E:\Projects\YapYap\assets\SC\login.png)
-![Sign Up](E:\Projects\YapYap\assets\SC\signup.png)
-![DashBoard](E:\Projects\YapYap\assets\SC\homepage.png)
-![Chat Room](E:\Projects\YapYap\assets\SC\chat.png)
+![Log In](assets\SC\login.png)
+![Sign Up](assets\SC\signup.png)
+![DashBoard](assets\SC\homepage.png)
+![Chat Room](assets\SC\chat.png)
 
 
 
